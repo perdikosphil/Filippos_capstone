@@ -1,2 +1,2 @@
-# ds_capstone
+#capstone
 Data Science Capstone for IBM Course

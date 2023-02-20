@@ -1,1 +1,2 @@
-# Filippos_capstone
+# ds_capstone
+Data Science Capstone for IBM Course
